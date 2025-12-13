@@ -8,6 +8,15 @@
 - Previously:
   - [Block Split Conference](https://blocksplit.net)
 
+- My stack:
+  - Next.js
+  - FastAPI
+  - PostgreSQL
+  - Shopify
+  - Google Cloud
+  - Gemini, Claude Code, Codex
+  - Coda
+
 <!--
 **tomislavmamic/tomislavmamic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
