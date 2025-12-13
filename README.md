@@ -1,9 +1,12 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on:
-  - [lunete.com](https://lunete.com)
-  - [arenausher.com](https://arenausher.com)
-  - [zazelenimo.com](https://zazelenimo.com) and [muqa.org](https://muqa.org)
+  - [Lunete Jewellery](https://lunete.com)
+  - [Arena Usher](https://arenausher.com)
+  - [Zazelenimo](https://zazelenimo.com) and [muqa.org](https://muqa.org)
+ 
+- Previously:
+  - [Block Split Conference](https://blocksplit.net)
 
 <!--
 **tomislavmamic/tomislavmamic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
