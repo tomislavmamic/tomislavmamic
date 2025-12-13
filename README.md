@@ -1,11 +1,9 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on:
-  - lunete.com
-  - arenausher.com
-  - zazelenimo.com
-  - muqa.org
-  - other
+  - [lunete.com](https://lunete.com)
+  - [arenausher.com](https://arenausher.com)
+  - [zazelenimo.com](https://zazelenimo.com) and [muqa.org](https://muqa.org)
 
 <!--
 **tomislavmamic/tomislavmamic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
