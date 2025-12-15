@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on:
+- I’m currently working on:
   - [Lunete Jewellery](https://lunete.com)
   - [Arena Usher](https://arenausher.com)
   - [Zazelenimo](https://zazelenimo.com) and [muqa.org](https://muqa.org)
