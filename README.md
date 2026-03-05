@@ -1,12 +1,14 @@
 ## Hi there 👋
 
 - I’m currently working on:
+  - [Fabricator](https://fabricator.hr)
   - [Lunete Jewellery](https://lunete.com)
-  - [Arena Usher](https://arenausher.com)
+
   - [Zazelenimo](https://zazelenimo.com) and [muqa.org](https://muqa.org)
  
 - Previously:
   - [Block Split Conference](https://blocksplit.net)
+  - [Arena Usher](https://arenausher.com)
 
 - My stack:
   - Next.js
